@@ -16,4 +16,11 @@ Report showing password strength results and explanation
 
 ### Solution:
 
+Created multiple passwords with varying complexity (simple, mixed case, with numbers, with symbols, and based on a phrase).
+
 [Tested Password list](Passwordlist.txt)
+
+Tested each password using https://www.passwordmonster.com and https://passwordmeter.com password strength checkers.
+
+Recorded the score, estimated time to crack, and feedback.
+
