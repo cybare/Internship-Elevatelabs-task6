@@ -24,3 +24,4 @@ Tested each password using https://www.passwordmonster.com and https://passwordm
 
 Recorded the score, estimated time to crack, and feedback.
 
+![ScoreTimetocrack](ScoreTimetocrack.png)
