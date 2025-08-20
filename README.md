@@ -16,4 +16,4 @@ Report showing password strength results and explanation
 
 ### Solution:
 
-[View the text file](Passwordlist.txt)
+[Tested Password list](Passwordlist.txt)
